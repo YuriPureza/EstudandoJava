@@ -6,3 +6,4 @@ Irei manter atualizado até que eu inicie projetos pensandos por mim e não send
 
 ![Texto alternativo](imagens/minha-imagem.jpg)
 
+Voltando a estudar hoje.
