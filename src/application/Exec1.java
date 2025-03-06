@@ -16,6 +16,19 @@ public class Exec1 {
 
         Rectangle rectangle = new Rectangle();
 
+        System.out.println("Enter the values: ");
+        System.out.print("Enter the width: ");
+        rectangle.width = sc.nextDouble();
+
+        System.out.print("Enter the height: ");
+        rectangle.height = sc.nextDouble();
+
+        rectangle.area();
+        rectangle.perimeter();
+        rectangle.diagonal();
+
+
+        sc.close();
 
 
     }
